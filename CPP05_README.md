@@ -1,45 +1,3 @@
-# 💻 C++ Modules (CPP05–CPP09) – 42
-
-## 🧭 Introducción
-Los módulos **CPP05 → CPP09** del cursus de **42** representan la **segunda etapa del aprendizaje de C++**, centrada en las características avanzadas del lenguaje y su aplicación práctica.
-
-Mientras que los módulos **CPP00–CPP04** se enfocan en los fundamentos de la **Programación Orientada a Objetos (POO)**, este bloque lleva esas bases al siguiente nivel: manejo de **excepciones**, **conversiones de tipo**, **plantillas (templates)** y **contenedores de la STL**.  
-El objetivo es escribir código **genérico, reutilizable y seguro**, aplicando las mejores prácticas modernas de C++.
-
----
-
-## 📚 Tabla de Contenidos
-- [⚠️ CPP05 – Excepciones y control de flujo](#-cpp05--excepciones-y-control-de-flujo)
-- [🔄 CPP06 – Conversión de tipos y castings](#-cpp06--conversión-de-tipos-y-castings)
-- [🧩 CPP07 – Plantillas y programación genérica](#-cpp07--plantillas-y-programación-genérica)
-- [📦 CPP08 – STL y algoritmos](#-cpp08--stl-y-algoritmos)
-- [⚡ CPP09 – Contenedores personalizados y rendimiento](#-cpp09--contenedores-personalizados-y-rendimiento)
-- [🧾 Conclusión General](#-conclusión-general)
-- [📚 Recursos Recomendados](#-recursos-recomendados)
-
----
-
-## 🧠 Objetivo general del bloque
-Este conjunto de módulos introduce al estudiante a la **programación moderna en C++**, dominando conceptos como:
-- **Excepciones y control de errores**
-- **Conversión entre tipos primitivos y clases**
-- **Templates y funciones genéricas**
-- **Contenedores de la STL (Standard Template Library)**
-- **Algoritmos, iteradores y eficiencia**
-- **Optimización de código y buenas prácticas**
-
-💡 En resumen: pasar de escribir código orientado a objetos a diseñar **código genérico, escalable y de alto rendimiento.**
-
----
-
-## 🧾 Relación con los módulos anteriores
-| Bloque | Enfoque principal | Resultado |
-|--------|------------------|------------|
-| **CPP00–CPP04** | Fundamentos de OOP | Diseño de clases y jerarquías orientadas a objetos |
-| **CPP05–CPP09** | C++ avanzado | Diseño genérico, plantillas, STL y programación moderna |
-
----
-
 # ⚠️ CPP05 – Excepciones y control de flujo
 
 ### 🎯 Objetivo del módulo
@@ -194,4 +152,3 @@ graph TD
 | Robustez | Código seguro ante errores y validaciones |
 
 💡 **CPP05** marca la transición hacia el **C++ robusto y orientado a errores**, donde cada clase gestiona su coherencia interna y se comunica mediante excepciones seguras.
-
